@@ -1,0 +1,18 @@
+{
+  "name": "cra-template-lint-jcdm",
+  "version": "1.0.0",
+  "main": "template.json",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template"
+  ],
+  "description": "my template reactJS",
+  "engines": {
+    "node": ">=10"
+  },
+  "files": [
+    "template.json",
+    "template"
+  ]
+}
